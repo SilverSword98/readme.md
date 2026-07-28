@@ -99,16 +99,21 @@ Feature Engineering, Model Evaluation, Data Preprocessing, Spatial Analytics, Cr
 - **Tech:** `Python`, `Flask`, `Pandas`, `API Development`
 
 <br/>
+<br/>
 
-## 📈 GitHub Stats
+## 🏆 Certifications & Badges
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilverSword98&show_icons=true&theme=radical" alt="Swetha's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilverSword98&theme=radical" alt="Swetha's GitHub Streak" />
-</div>
+- ☁️ **Microsoft Azure Essentials Professional Certificate** – *Microsoft & LinkedIn*
+- 🌐 **Generative AI & Vertex AI Professional Badges** – *Google Cloud Skills Boost*
+- 🤖 **GEN AI Using IBM Watsonx** – *IBM Career Education Program*
+- 🚀 **Postman API Fundamentals Student Expert** – *Postman*
+- 📊 **Data Analytics Job Simulation** – *Deloitte Australia (Forage)*
+- ⛓️ **Blockchain Developer** – *IBM Career Education Program*
+- 🐍 **Applied Machine Learning in Python** – *University of Michigan (Coursera)*
 
 <br/>
 
+
 <div align="center">
-  <i>Always open to discussing AI/ML opportunities, hackathons, and tech collaborations!</i>
+  <i>Always open to discussing AI/ML opportunities and tech collaborations!</i>
 </div>
