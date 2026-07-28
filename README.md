@@ -19,7 +19,7 @@ I am an AI/ML Engineer with hands-on experience building end-to-end machine lear
 - 🎓 Currently pursuing my **B.Tech in Computer Science & Engineering (AI & ML)** at VIT Bhopal University (Class of 2026).
 - 💼 Currently working as a **Project Management Intern** at RightCliq Digital Solutions, Dubai.
 - ☁️ Certified in **Microsoft Azure**, **Google Cloud (Vertex AI)**, and **IBM Watsonx**.
-- 💡 I am passionate about practical AI applications, biometric authentication, and predictive modeling.
+- 💡 I am passionate about practical AI applications, biometric authentication, spatial analytics, and predictive modeling.
 
 <br/>
 
@@ -30,21 +30,35 @@ I am an AI/ML Engineer with hands-on experience building end-to-end machine lear
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / Machine Learning / Computer Vision:**  
+**Machine Learning & Deep Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-13B4FF?style=flat-square&logo=xgboost&logoColor=white)  
+*Algorithms & Architectures:* CNNs, RNNs, LSTMs, Random Forest, Gradient Boosting, K-Means, Logistic Regression
+
+**Computer Vision:**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+*Techniques & Tools:* MediaPipe, Face Recognition, Pose Detection
+
+**Data Science Tools & Frameworks:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=python&logoColor=white)  
+*Libraries:* Folium, SHAP
 
-**Frameworks & Cloud:**  
+**Backend, Cloud & DevOps:**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
+*Concepts:* RESTful APIs, API Development
 
+**Core AI/ML Concepts:**  
+Feature Engineering, Model Evaluation, Data Preprocessing, Spatial Analytics, Credit Risk Modeling, Biometric Authentication
 <br/>
 
 ## 🚀 Featured Projects
@@ -63,12 +77,26 @@ I am an AI/ML Engineer with hands-on experience building end-to-end machine lear
 - **Impact:** Delivered a fast, scalable, and data-driven pipeline for automated loan approval recommendations.
 - **Tech:** `Python`, `XGBoost`, `Random Forest`, `Pandas`, `Seaborn`
 
+### 🗺️ [Data-Driven Women Safety Route System](https://github.com/SilverSword98)
+*A spatial analytics framework integrating 28 heterogeneous urban datasets for predictive safety modeling.*
+- **Spatial Analytics:** Engineered 37 spatial features using GeoPandas and BallTree algorithms for proximity and density analysis.
+- **Explainable AI:** Implemented SHAP-based feature importance analysis to identify top safety determinants like lighting and infrastructure.
+- **Deployment:** Built an interactive Folium visualization and prototype mobile application for real-time safety routing.
+- **Tech:** `Python`, `GeoPandas`, `SHAP`, `Folium`, `Machine Learning`
+
 ### 🛒 [SmartCart: Customer Segmentation & Targeted Marketing Model](https://github.com/SilverSword98)
 *A customer clustering and behavioral analytics system for intelligent e-commerce segmentation.*
 - **Unsupervised Learning:** Developed a pipeline using K-Means Clustering to segment 2,240 e-commerce customers based on purchasing behavior and demographics.
 - **Feature Engineering:** Engineered high-value business features (Total Spend, Customer Tenure) and optimized distance-based algorithm performance using StandardScaler.
 - **Evaluation:** Achieved a Silhouette Score of 0.48 using the Elbow Method, successfully identifying 4 distinct customer personas to drive personalized marketing campaigns.
 - **Tech:** `Python`, `K-Means`, `Scikit-Learn`, `Data Analytics`
+
+### 🏛️ [DigiSahayak: AI-Powered Government Scheme Platform](https://github.com/SilverSword98)
+*An AI-driven web platform developed during EY Techathon 5.0 to simplify access to government welfare schemes.*
+- **Backend Development:** Built filtering and data-processing workflows to match users with relevant schemes based on demographic and income criteria.
+- **Logic Design:** Designed scalable rule-based eligibility logic and integrated structured scheme datasets for automated recommendation generation.
+- **Achievement:** Collaborated in a cross-functional team to prototype and present the solution, qualifying beyond the initial evaluation round in EY Techathon 5.0.
+- **Tech:** `Python`, `Flask`, `Pandas`, `API Development`
 
 <br/>
 
