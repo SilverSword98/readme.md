@@ -16,7 +16,7 @@
 ## 👩🏻‍💻 About Me
 I am an AI/ML Engineer with hands-on experience building end-to-end machine learning pipelines and developing data-driven solutions for real-world problems. I have a strong foundation in artificial intelligence, computer vision, and software development. 
 
-- 🎓 Currently pursuing my **B.Tech in Computer Science & Engineering (AI & ML)** at VIT Bhopal University (Class of 2026).
+- 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** at VIT Bhopal University (Class of 2026).
 - 💼 Currently working as a **Project Management Intern** at RightCliq Digital Solutions, Dubai.
 - ☁️ Certified in **Microsoft Azure**, **Google Cloud (Vertex AI)**, and **IBM Watsonx**.
 - 💡 I am passionate about practical AI applications, biometric authentication, spatial analytics, and predictive modeling.
